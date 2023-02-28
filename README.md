@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Mi primer repositorio online
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computardora.
